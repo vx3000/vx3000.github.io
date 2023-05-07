@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+table, th {
+  text-align: center;
+  border: 2px solid white;
+  color: white;
+}
+
+body {
+  background-color: black
+}
+
+table.top {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-spacing: 20px
+}
+
+h1, h2 {
+  text-align: center;
+  color: white;  
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  border: 2px solid white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+
+  color: white;
+}
+
+table.friend {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th.friend {
+  text-align: center;
+  color: white;
+  border: 0px solid black;
+}
+
+b {
+  text-align: center;
+  color: white;
+  margin-left: 300px;
+}
+
+p.article{
+  margin-left: 475px;
+  margin-right: 475px;
+}
+

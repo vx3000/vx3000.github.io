@@ -62,7 +62,7 @@ b {
 }
 
 p.article{
-  margin-left: 475px;
-  margin-right: 475px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
